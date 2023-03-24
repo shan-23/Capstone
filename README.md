@@ -32,19 +32,4 @@ This project will seek to alleviate the pressure/ congestion faced by hospitals 
 
 
 
-
-____________________                                  ____________________                                                                                            ***PROJECT SPONSOR***                                       ***Date***  
-
-
-____________________                                  ____________________                                                                                      ***PROJECT Manager***                                       ***Date***  
-   								              
-
-
-
-![Semantic description of image](C:/Users/biauser/Documents/GitHub/Capstone/project signoff.png "Image Title")
-project signoff.PNG
-
-![Semantic description of image](C:/Users/biauser/Documents/GitHub/Capstone/project signoff.PNG)*My caption*
-
-<img src="project signoff.png" >
 <img src="project signoff.PNG" >
