@@ -19,17 +19,51 @@ This project will seek to alleviate the pressure/ congestion faced by hospitals 
 
 
 ### Project stakeholders Register 
-* Project Sponsor (Instructor/Patrick Dolinger)
-* Project Manager (Trainee/ Shaneil)
-* Data Analysts(Trainee/ Shaneil)
-* Programmer (Trainee/ Shaneil)
-* Users of the System (Trainee/ Shaneil)
-
-
-
-### PROJECT SIGNOFF
+* ***Project Sponsor (Instructor/Patrick Dolinger)***
+* ***Project Manager (Trainee/ Shaneil)***
+* ***Data Analysts(Trainee/ Shaneil)***
+* ***Programmer (Trainee/ Shaneil)***
+* ***Users of the System (Trainee/ Shaneil)***
 
 
 
 
 <img src="project signoff.PNG" >
+
+# Milestone 
+
+* ***Creation and sign off on the project Scope ***
+* ***Collection of data used to design the system ***
+* ***Data modification / wrangling ***
+* ***Design  and sign off of a prototype by  key stakeholders of the system ***
+* ***Implementation of the designed System ***
+
+
+# Deliverables of the Project 
+The main deliverables of this project includes the following :
+
+* ***A project Scope***
+* ***Analysis of data collected***
+* ***Project Work Breakdown Structure ***
+* ***Creation of a prototype of the System ***
+* ***System Documentation /Manual***
+* ***Implementation of the system ***
+* ***System Maintenance ***
+
+# Information/Tools Used 
+
+### Dataset 
+The dataset which will be used to design the system may be found at https://www.kaggle.com/code/kunal2350/disease-prediction-with-gui and is made up of the following 4 csv files 
+* ***Symptom-severity*** – which lists symptoms and assign them a weight 
+* ***Dataset*** – This csv contains a list of diseases and their symptoms
+* ***Symptom Description***  - Contains a list of diseases and a description of what the disease is 
+* ***Symptom precaution*** – Lists various diseases and the precaution which on might take to avoid getting the disease.
+
+### TOOLS USED 
+* ***Microsoft SQL*** – This Software will be used to wrangle the data / clean up any inconsistencies which may be found within the data used in the project as well as store data/ information used in the Graphical User Interface
+* ***Pycaret*** – Pycaret will be used within the project to make predictions based on the dataset csv file 
+* ***Justinmind***- This software wil be used to create a prototype of the Graphical user interface which will be used in the project 
+* ***Github*** – This software will be used to host the project documentation 
+* ***Python*** – Python will be used to aid in the creation of the graphical interface 
+
+
