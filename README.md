@@ -27,22 +27,17 @@ This project will seek to alleviate the pressure/ congestion faced by hospitals 
 
 
 
-
-
-
-PROJECT SIGNOFF
+### PROJECT SIGNOFF
 
 
 
 
 
-____________________                                                                                         _________________
-   PROJECT SPONSOR 								             DATE 
-
-____________________                                                                                         _________________
-   PROJECT MANAGER							                     DATE 
+____________________                                  ____________________                                                             ***PROJECT SPONSOR***                                       ***Date***  
 
 
+____________________                                  ____________________                                                             ***PROJECT Manager***                                       ***Date***  
+   								              
 
 
 
