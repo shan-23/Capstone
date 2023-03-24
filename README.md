@@ -47,3 +47,4 @@ project signoff.PNG
 ![Semantic description of image](C:/Users/biauser/Documents/GitHub/Capstone/project signoff.PNG)*My caption*
 
 <img src="project signoff.png" >
+<img src="project signoff.PNG" >
