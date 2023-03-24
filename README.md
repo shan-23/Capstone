@@ -4,26 +4,26 @@ I decided to embark on this assignment as a way of improving the medical system 
 
 # Project Scope 
 
-This project will seek to alleviate the pressure/ congestion faced by hospitals in the area. This will be done through the development of a prediction software aided by  the use of a Graphic User Interface . This software will allow triage staff member to ascertain whether or not a presented patient symptoms indicates an emergency hence they would require to see a doctor urgently or if the patient’s symptoms aren’t as severe and would therefore only require the attention of a nurse practitioner. This would enable the more severe patients to have first preference to see a doctor which would in turn  alleviate / reduce  the high death toll seen by the hospitals in and around the area , As patients will now be ranked / classified based on their symptoms. In addition to this  the system will  also serve as an  unofficial means of informing triage members and new nursing staff as to a prediction of the patients ailments based on the symptoms they present. Even though this system will aid in the prediction of a patient’s disease it is advised that A DOCTOR OR NURSE PRACTITIONER SIGNS OFF ON THE PATIENTS DISCHARGE FROM THE HOSPITAL AS THE SYSTEM CAN ONLY PREDICT WHAT IS WRONG WITH THE PATIENT AND AS WITH ANYTHING ELSE THERE IS THE POTENTIAL FOR SYSTEM ERRORS 
+This project will seek to alleviate the pressure/ congestion faced by hospitals in the area. This will be done through the development of a prediction software aided by  the use of a Graphic User Interface . This software will allow triage staff member to ascertain whether or not a presented patient symptoms indicates an emergency hence they would require to see a doctor urgently or if the patient’s symptoms aren’t as severe and would therefore only require the attention of a nurse practitioner. This would enable the more severe patients to have first preference to see a doctor which would in turn  alleviate / reduce  the high death toll seen by the hospitals in and around the area , As patients will now be ranked / classified based on their symptoms. In addition to this  the system will  also serve as an  unofficial means of informing triage members and new nursing staff as to a prediction of the patients ailments based on the symptoms they present. Even though this system will aid in the prediction of a patient’s disease it is advised that **A DOCTOR OR NURSE PRACTITIONER SIGNS OFF ON THE PATIENTS DISCHARGE FROM THE HOSPITAL AS THE SYSTEM CAN ONLY PREDICT WHAT IS WRONG WITH THE PATIENT AND AS WITH ANYTHING ELSE THERE IS THE POTENTIAL FOR SYSTEM ERRORS**
 
-Deliverable of Project 
-Collection of data/information to feed into the system. 
-Manipulation of data collected to build the prediction model 
-Design of a prototype to present to key stakeholders of the System.
-Sign off on the prototype designed by the key stakeholders of the project
-Training of staff/ Persons who will be using the system 
-Implementation of the system 
-Maintenance of the system – (this will include fixing any bugs discovered by the users of the system as well as improving the system by updating it with new diseases as well as new symptoms)
+### Deliverable of Project 
+
+* Collection of data/information to feed into the system. 
+* Manipulation of data collected to build the prediction model 
+* Design of a prototype to present to key stakeholders of the System.
+* Sign off on the prototype designed by the key stakeholders of the project
+* Training of staff/ Persons who will be using the system 
+* Implementation of the system 
+* Maintenance of the system – (this will include fixing any bugs discovered by the users of the system as well as improving the system by updating it with new diseases as well as new symptoms)
 
 
 
-
-Project stakeholders Register 
-Project Sponsor (Instructor/Patrick Dolinger)
-Project Manager (Trainee/ Shaneil)
-Data Analysts(Trainee/ Shaneil)
-Programmer (Trainee/ Shaneil)
-Users of the System (Trainee/ Shaneil)
+### Project stakeholders Register 
+* Project Sponsor (Instructor/Patrick Dolinger)
+* Project Manager (Trainee/ Shaneil)
+* Data Analysts(Trainee/ Shaneil)
+* Programmer (Trainee/ Shaneil)
+* Users of the System (Trainee/ Shaneil)
 
 
 
