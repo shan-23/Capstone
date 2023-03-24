@@ -32,11 +32,11 @@ This project will seek to alleviate the pressure/ congestion faced by hospitals 
 
 # Milestone 
 
-* ***Creation and sign off on the project Scope ***
-* ***Collection of data used to design the system ***
-* ***Data modification / wrangling ***
-* ***Design  and sign off of a prototype by  key stakeholders of the system ***
-* ***Implementation of the designed System ***
+* ***Creation and sign off on the project Scope***
+* ***Collection of data used to design the system***
+* ***Data modification / wrangling***
+* ***Design  and sign off of a prototype by  key stakeholders of the system***
+* ***Implementation of the designed System***
 
 
 # Deliverables of the Project 
@@ -44,11 +44,11 @@ The main deliverables of this project includes the following :
 
 * ***A project Scope***
 * ***Analysis of data collected***
-* ***Project Work Breakdown Structure ***
-* ***Creation of a prototype of the System ***
+* ***Project Work Breakdown Structure***
+* ***Creation of a prototype of the System***
 * ***System Documentation /Manual***
-* ***Implementation of the system ***
-* ***System Maintenance ***
+* ***Implementation of the system***
+* ***System Maintenance***
 
 # Information/Tools Used 
 
