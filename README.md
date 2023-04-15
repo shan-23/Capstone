@@ -69,4 +69,4 @@ The dataset which will be used to design the system may be found at https://www.
 
 
 
-<img src="movie.mp4" >
+<video  src="movie.mp4" ></video>
