@@ -68,7 +68,7 @@ The dataset which will be used to design the system may be found at https://www.
 
 
 <video width="320" height="240" controls>
-  <source src="CapstoneDraft.webm" type="video/mp4">
+  <source src="CapstoneDraft.webm" type="webm">
   
 Your browser does not support the video tag.
 </video>
