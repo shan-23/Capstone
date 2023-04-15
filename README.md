@@ -67,8 +67,6 @@ The dataset which will be used to design the system may be found at https://www.
 * ***Python*** – Python will be used to aid in the creation of the graphical interface 
 
 
-<video width="320" height="240" controls>
-  <source src="CapstoneDraft.mp4" type="mp4">
-  
-Your browser does not support the video tag.
-</video>
+
+
+<img src="movie.mp4" >
