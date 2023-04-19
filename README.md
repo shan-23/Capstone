@@ -70,3 +70,9 @@ The dataset which will be used to design the system may be found at https://www.
 ### Link to First Draft  Video Below
 
 https://clipchamp.com/watch/QRlTNOS8RV1
+
+
+### PROJECT IMPLEMENTATION 
+* ***Data cleansing in SSMS ***[link to ssms document](https://www.youtube.com/watch?v=uvTcd-VlM64)
+* ***Data prediction through the use of Pycaret /chart design through the use matplotlib and seaborne***
+* ***Data prediction through the use of sklearn/chart design through the use of yellowbrick ***
