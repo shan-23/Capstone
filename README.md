@@ -73,6 +73,6 @@ https://clipchamp.com/watch/QRlTNOS8RV1
 
 
 ### PROJECT IMPLEMENTATION 
-* ***Data cleansing in SSMS ***[link to ssms document](https://www.youtube.com/watch?v=uvTcd-VlM64)
+* ***Data cleansing in SSMS ***[link to ssms document](tester/new)
 * ***Data prediction through the use of Pycaret /chart design through the use matplotlib and seaborne***
 * ***Data prediction through the use of sklearn/chart design through the use of yellowbrick ***
