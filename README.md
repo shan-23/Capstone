@@ -78,4 +78,4 @@ https://clipchamp.com/watch/QRlTNOS8RV1
 * ***Data prediction through the use of Pycaret /chart design through the use matplotlib and seaborne*** <br>
 [link to Pycaret notebook](tester/new)
 * ***Data prediction through the use of sklearn/chart design through the use of yellowbrick***  <br>
-[link to sklearn notebook](tester/new)
+[link to SK-Learn notebook](tester/new)
