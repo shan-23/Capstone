@@ -74,8 +74,11 @@ https://clipchamp.com/watch/QRlTNOS8RV1
 
 ### PROJECT IMPLEMENTATION 
 * ***Data cleansing in SSMS*** <br>
-[link to ssms document](tester/new)
+[link to ssms document](Project_Implementation/SSMS/finalprojectblueprint.sql)
 * ***Data prediction through the use of Pycaret /chart design through the use matplotlib and seaborne*** <br>
-[link to Pycaret notebook](tester/new)
+[link to Pycaret notebook](Project_Implementation/Pycaret/PycaretNoteBook/capstonerevamp.ipynb)
 * ***Data prediction through the use of sklearn/chart design through the use of yellowbrick***  <br>
-[link to SK-Learn notebook](tester/new)
+[link to SK-Learn notebook](Project_Implementation/SKLEARN/SK-Learn_Note_Book/SKLEARN.ipynb)
+
+
+### Link to Capstone Final Video
